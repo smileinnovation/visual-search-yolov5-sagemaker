@@ -1,0 +1,8 @@
+train: /opt/ml/input/data/images/train/  # train images
+val: /opt/ml/input/data/images/train/  # train images
+
+# number of classes
+nc: 5
+
+# class names
+names: ['drill', 'hammer', 'paintbrush', 'screwdriver', 'wheelbarrow']

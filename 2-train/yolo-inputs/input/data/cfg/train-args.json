@@ -1,0 +1,10 @@
+{
+   "FP_DATA": "/opt/ml/input/data/cfg/visualsearch.yaml",
+   "FP_YOLO": "/opt/ml/input/data/cfg/yolov5l.yaml",
+   "FP_HYP": "/opt/ml/input/data/cfg/hyp.finetune.yaml",    
+   "FP_WEIGHT": "/opt/ml/input/data/weights/yolov5l.pt",
+   "NAME": "visualsearch",
+   "IMG_SIZE": "640",
+   "EPOCHS": "50",
+   "BATCH": "16"
+}
